@@ -6,7 +6,7 @@ NASA Astronomy Picture of the Day can be found out [here](http://apod.nasa.gov/a
 	sudo pip install beautifulsoup4
 
 #### To use 
-Change the directory path on line 17
+Change the directory path on line 17. After that do :
 
        python get_nasa_apod.py
 
