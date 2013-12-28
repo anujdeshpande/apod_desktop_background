@@ -1,7 +1,7 @@
 ###Change your Mac OS X Desktop background to NASA's pic of the day.  
-NASA Astronomy Picture of the Day can be found out [here]{http://apod.nasa.gov/apod/}.  
+NASA Astronomy Picture of the Day can be found out [here](http://apod.nasa.gov/apod/).  
 
-Pre Requisites :
+#### Pre Requisites :
     
 	sudo pip install beautifulsoup4
 
