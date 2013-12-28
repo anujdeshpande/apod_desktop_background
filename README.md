@@ -1,7 +1,5 @@
-Change your Mac OS X Desktop background to NASA's pic of the day.
-(Tested on Mavericks)
-NASA Astronomy Picture of the Day 
-http://apod.nasa.gov/apod/ can be found out here.  
+###Change your Mac OS X Desktop background to NASA's pic of the day.  
+NASA Astronomy Picture of the Day can be found out [here]{http://apod.nasa.gov/apod/}.  
 
 Pre Requisites :
     
