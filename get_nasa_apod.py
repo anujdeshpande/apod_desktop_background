@@ -14,5 +14,5 @@ store.write ( response.read())
 store.close()
 response.close()
 
-os.system("sqlite3 ~/Library/Application\ Support/Dock/desktoppicture.db \"update data set value = '/Users/anuj/code/nasa_desktop_background/"+str(datetime.date.today())+".jpg"+"'\";")
+os.system("sqlite3 ~/Library/Application\ Support/Dock/desktoppicture.db \"update data set value = '"+str(os.getcwd())+ "/" +str(datetime.date.today())+".jpg"+"'\";")
 os.system("killall Dock")
